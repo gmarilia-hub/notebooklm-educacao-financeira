@@ -29,8 +29,11 @@ Os conteúdos analisados foram extraídos de vídeos do YouTube sobre:
 * Renda fixa e renda variável
 
 https://www.youtube.com/watch?v=EO5dnNt7nAY
+
 https://youtu.be/_WLB4zeM__U?si=yRlWs3rmE08ZsL7m
+
 https://www.youtube.com/watch?v=GK0q2P-L6Lc
+
 https://www.youtube.com/watch?v=Coiy4RCLhUU
 
 ---
