@@ -8,6 +8,9 @@ Este projeto foi desenvolvido utilizando o NotebookLM com o objetivo de analisar
 
 A ferramenta foi utilizada para gerar resumos, insights e um mapa mental a partir de vídeos do YouTube.
 
+## 🔗 Acesso ao Notebook no NotebookLM
+
+https://notebooklm.google.com/notebook/aac28a4e-6ece-4490-a076-cb26389330a5
 ---
 
 ## 🎯 Objetivo
