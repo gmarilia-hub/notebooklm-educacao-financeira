@@ -107,4 +107,4 @@ Este projeto foi desenvolvido exclusivamente com base nas fontes fornecidas ao N
 
 ## 📷 Demonstração da Ferramenta
 
-![NotebookLM](print-notebooklm.png)
+NotebookLM Mind Map.png
